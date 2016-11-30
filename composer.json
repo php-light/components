@@ -11,8 +11,7 @@
         }
     ],
     "require": {
-        "php": ">=5.4",
-        "romenys/helpers": "stable"
+        "php": ">=5.4"
     },
     "autoload": {
         "psr-4": { "Romenys\\Components\\": "" },
